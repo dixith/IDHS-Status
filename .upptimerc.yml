@@ -13,7 +13,7 @@ status-website:
   baseUrl: /IDHS-Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  name: Upptime
+  name: Status
   introTitle: "**Status**"
   introMessage: Status
   navbar:
