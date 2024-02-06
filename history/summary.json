@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 122,
-    "timeWeek": 123,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 128,
+    "timeWeek": 125,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Ping test",
+    "url": "$SECRET_SITE_HOME_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ping-test",
+    "status": "down",
+    "uptime": "94.96%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "94.96%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   }
 ]
